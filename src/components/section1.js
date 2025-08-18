@@ -10,7 +10,8 @@ const containerStyle = {
     justifyContent: "center",
     padding: "3rem 1rem",
     textAlign: "center",
-    backgroundColor: "#f3f3f3",
+    marginTop: "1rem",
+    backgroundColor: "#f5f5f5",
 };
 
 const portraitContainerStyle = {
